@@ -1,0 +1,39 @@
+.container {
+  width: 700px;
+  margin: auto;
+  padding: 20px;
+  background-color: lightgrey;
+
+}
+
+h1 {
+  text-align: center;
+}
+
+.octo-image{
+  width: 200px;
+
+}
+.blue-row {
+  display: flex;
+  background-color: lightblue;
+  justify-content: space-between;
+  padding: 20px;
+  margin: 20px;
+}
+
+.pink-row {
+  display: flex;
+  background-color: pink;
+  justify-content: center;
+  padding: 20px;
+  margin: 20px;
+}
+
+.white-row{
+  display: flex;
+  background-color: white;
+  justify-content: space-between;
+  padding: 20px;
+  margin: 20px;
+}
